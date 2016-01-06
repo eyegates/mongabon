@@ -1,0 +1,92 @@
+----item----
+version: 1
+id: {A667AA0C-18AF-45AE-BFD6-465B5FBBF717}
+database: master
+path: /sitecore/content/MonGabon/PLats/bouillon-carpe-pimente
+parent: {F49D3482-8273-471A-B5DD-1463DA2837AC}
+name: bouillon-carpe-pimente
+master: {00000000-0000-0000-0000-000000000000}
+template: {27EA83DB-6E88-45D6-9376-EE2BE80B17ED}
+templatekey: Rite Template
+
+----version----
+language: en
+version: 1
+revision: e73f9339-3301-4193-8e30-3348178e2936
+
+----field----
+field: {B3570936-4ACE-4CA6-B555-99018EABF552}
+name: Titre
+key: titre
+content-length: 25
+
+Bouillon de carpe pimenté
+----field----
+field: {D40044AC-97D6-4F45-BE53-FCF02D44C92E}
+name: Image
+key: image
+content-length: 202
+
+<image mediapath="/Images/bouillon" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Images/bouillon" mediaid="{CF6DCB87-1A15-43A8-A057-D61515BCFC5D}" ></image>
+----field----
+field: {37CAF9C1-FE24-4C49-81F0-A86302D2A797}
+name: Description
+key: description
+content-length: 584
+
+<p class="text-justify">
+                            Il paraît que c’est le fidèle matinal du fêtard Gabonais. Qui Après une bonne cuite le samedi, se retrouvent le 
+                            dimanche entre amis ou en famille à avaler des cuillères de soupes pimentées pour 
+                            évacuer le «&nbsp;speed&nbsp;. Personnellement moi je l’aime quand il fait un peu froid ou on 
+                            début de grippe, rien de mieux qu’un bouillon bien chaud et bien assaisonné pour se 
+                            faire du bien.
+                        </p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T210915Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e73f9339-3301-4193-8e30-3348178e2936
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151226T213801:635867626819087178Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

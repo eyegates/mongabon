@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {9B9D6B11-7426-4F26-BBDA-AA261AEE51AC}
+database: master
+path: /sitecore/layout/Renderings/MonGabon/TwoColumnRow
+parent: {4990B591-90F6-4DB2-AEFF-C5767ED6C7C7}
+name: TwoColumnRow
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 26
+
+/Views/TwoColumnRow.cshtml
+----version----
+language: en
+version: 1
+revision: 7228ddf7-282f-498a-b90b-31442c92c786
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T204706Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7228ddf7-282f-498a-b90b-31442c92c786
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151226T204706:635867596268638024Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

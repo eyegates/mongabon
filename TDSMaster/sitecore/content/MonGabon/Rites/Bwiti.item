@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {592A52B1-511E-4AB6-A9E9-89F6A8995887}
+database: master
+path: /sitecore/content/MonGabon/Rites/Bwiti
+parent: {EBC7C312-9269-476A-AA6A-009FB0B2CAA7}
+name: Bwiti
+master: {00000000-0000-0000-0000-000000000000}
+template: {27EA83DB-6E88-45D6-9376-EE2BE80B17ED}
+templatekey: Rite Template
+
+----version----
+language: en
+version: 1
+revision: 6e4c7cbc-e2da-4888-89f8-5b9947dcf0f3
+
+----field----
+field: {B3570936-4ACE-4CA6-B555-99018EABF552}
+name: Titre
+key: titre
+content-length: 8
+
+Le bwiti
+----field----
+field: {D40044AC-97D6-4F45-BE53-FCF02D44C92E}
+name: Image
+key: image
+content-length: 161
+
+<image mediapath="" alt="bwiti" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{A73E7131-1346-4776-BC0B-474213C8B5C1}" />
+----field----
+field: {37CAF9C1-FE24-4C49-81F0-A86302D2A797}
+name: Description
+key: description
+content-length: 2708
+
+<p class="text-justify">
+                            Le Bwiti (ou Bwete) est un rite initiatique originaire des populations Mitsogo et Apinzi du Gabon central. Sa date d'origine est 
+                            indéterminée, mais remonte au-delà du xixe siècle, puisque Paul Belloni Du Chaillu, premier explorateur européen de l'intérieur du 
+                            Gabon, a déjà pu observer sa présence dans le centre du pays. Cependant, d'après les pratiquants eux-mêmes, cette tradition serait 
+                            âgée de plusieurs millénaires.
+                            Le Bwiti est aujourd'hui largement répandu au Gabon, aussi bien parmi les populations du sud du pays que chez les Fangs du Nord 
+                            (diffusion autour de 1910 chez les Fangs), aussi bien en milieu rural qu'en milieu urbain. À travers les Fangs, le Bwiti s'est 
+                            également diffusé en Guinée équatoriale et au sud-Cameroun.
+                            Le rite de passage du Bwiti est centré sur la manducation par le néophyte d'écorces de racines de l'arbuste appelé iboga ou eboga 
+                            (Tabernanthe iboga). Divers alcaloïdes présents dans cette plante (notamment l'ibogaïne) possèdent des propriétés psychodysleptiques 
+                            de type hallucinogène. Pendant le rite de passage, l'absorption d'une dose massive d'iboga permet ainsi au néophyte d'obtenir des 
+                            visions spectaculaires dont le récit aux initiateurs serviront à valider son initiation.
+
+                            La branche originelle du rite initiatique parmi les Mitsogo est appelée Bwiti Dissumba. Il s'agit d'un rite de passage pubertaire, 
+                            strictement masculin. Le Bwiti Dissumba s'appuie sur le culte des ancêtres, notamment à travers des reliquaires contenant les 
+                            ossements des ascendants défunts.
+
+                            Le Bwiti Misoko constitue une branche initiatique dérivée et postérieure au Dissumba. Le Bwiti Misoko possède une fonction avant tout 
+                            thérapeutique (rite d'affliction) : le néophyte choisit de se faire initier en cas d'infortune inexpliquée, dont on suspecte la 
+                            plupart du temps qu'elle a été causée par un sorcier malveillant. Les initiés du Bwiti Misoko sont appelés les nganga-a-Misoko, ou 
+                            plus simplement nganga. Ils ont une fonction de devins-guérisseurs. Contrairement au Bwiti Dissumba des Mitsogo et des Apinzi, 
+                            le Bwiti Misoko accepte souvent (et de plus en plus) les femmes en son sein.
+                        </p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T173632Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6e4c7cbc-e2da-4888-89f8-5b9947dcf0f3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151228T161258:635869159780953613Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

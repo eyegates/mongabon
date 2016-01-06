@@ -1,0 +1,96 @@
+----item----
+version: 1
+id: {ACE17C3C-1B2A-4254-BB9E-69C8E8ACEB9F}
+database: master
+path: /sitecore/content/MonGabon/Home/les-danses-et-rites
+parent: {AC412A03-D855-4FE2-BBCF-0CE106BF832C}
+name: les-danses-et-rites
+master: {00000000-0000-0000-0000-000000000000}
+template: {FFE33DA1-5923-4213-890C-3DD9A524BE34}
+templatekey: GabonParent
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----field----
+field: {A791F095-2521-4B4D-BEF9-21DDA221F608}
+name: __Style
+key: __style
+content-length: 7
+
+culture
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 190
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{7CB4DDB6-F264-4543-ABE6-E07700FC731D}"><p:d /></r></d></r>
+----version----
+language: en
+version: 1
+revision: ee4a7e5d-5af0-4ec4-85d4-1d4cdd6eec65
+
+----field----
+field: {7C55A7F2-C155-4E37-8079-0B830FC0A6FD}
+name: Title
+key: title
+content-length: 38
+
+Culture : Danses et rites initiatiques
+----field----
+field: {2D580EE5-F886-408B-923E-1D7088D21407}
+name: Header Text
+key: header text
+content-length: 336
+
+<p>
+                    La société africaine et gabonaise en particulier est composée de nombreux rites initiatiques. Ces rites ont des significations diverses
+                    comme par exemple le passage à l'âge adulte pour l'homme ou la femme, le retrait de deuil, la naissance de jumeaux, la circoncision.
+                </p>
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1141
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{52DF6717-BB5A-4547-AD9A-04F0B541C995}" p:before="r[@uid='{0FE40900-8ACD-409C-94A2-EEFAE119122E}']" s:id="{D86866D9-DDA4-40DB-96A3-160BF8A730D4}" s:ph="main" /><r uid="{0FE40900-8ACD-409C-94A2-EEFAE119122E}" p:before="r[@uid='{B2853FD8-9114-42AD-A88B-18E639D42C39}']" s:ds="{592A52B1-511E-4AB6-A9E9-89F6A8995887}" s:id="{F777106E-50FC-4A02-90CB-60D25DDB87D3}" s:par="Background=%7BB69051DA-7B96-4DDF-9F71-59B1788CB2F8%7D&amp;Size=%7B6281ED3D-59FD-4226-A5A6-DEA0002E9A7C%7D" s:ph="main" /><r uid="{B2853FD8-9114-42AD-A88B-18E639D42C39}" p:before="r[@uid='{4C3B8D9D-E386-41E2-98E1-E80F4BCED5B4}']" s:ds="{0DE77795-2E4D-4DD7-974C-7B1049CCB16D}" s:id="{7B23524C-67BA-43CE-A1F3-857B1FA4E59C}" s:par="Background=%7BB69051DA-7B96-4DDF-9F71-59B1788CB2F8%7D" s:ph="main" /><r uid="{4C3B8D9D-E386-41E2-98E1-E80F4BCED5B4}" s:ds="{B61B5B91-84E3-4EFC-BE20-61DD93E849EF}" s:id="{F777106E-50FC-4A02-90CB-60D25DDB87D3}" s:par="Background=%7BB69051DA-7B96-4DDF-9F71-59B1788CB2F8%7D&amp;class=navbar-gray" s:ph="main" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T163222Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ee4a7e5d-5af0-4ec4-85d4-1d4cdd6eec65
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160104T155947:635875199874525476Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

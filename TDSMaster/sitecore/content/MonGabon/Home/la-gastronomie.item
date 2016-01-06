@@ -1,0 +1,92 @@
+----item----
+version: 1
+id: {2DA5E90D-E143-4A76-B2FB-5AA9249D9E33}
+database: master
+path: /sitecore/content/MonGabon/Home/la-gastronomie
+parent: {AC412A03-D855-4FE2-BBCF-0CE106BF832C}
+name: la-gastronomie
+master: {00000000-0000-0000-0000-000000000000}
+template: {FFE33DA1-5923-4213-890C-3DD9A524BE34}
+templatekey: GabonParent
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----field----
+field: {A791F095-2521-4B4D-BEF9-21DDA221F608}
+name: __Style
+key: __style
+content-length: 6
+
+gastro
+----version----
+language: en
+version: 1
+revision: 684bca7d-e030-44d5-8517-3c2a3a0451c9
+
+----field----
+field: {7C55A7F2-C155-4E37-8079-0B830FC0A6FD}
+name: Title
+key: title
+content-length: 34
+
+Culture : La gastronomie gabonaise
+----field----
+field: {2D580EE5-F886-408B-923E-1D7088D21407}
+name: Header Text
+key: header text
+content-length: 664
+
+<p>
+                    Les bases de la cuisine du Gabon se trouvent essentiellement dans les produits de la terre (comme la banane plantain, le manioc, 
+                    la feuille de manioc, l'aubergine africaine, le piment, etc.) et les produits de la mer (à peu près toutes les sortes de poissons exotiques 
+                    et de crustacés), mais les Gabonais consomment aussi la viande d'animaux terrestres, gibier ou volaille.
+                    La viande de brousse est très appréciée. Cela inclut antilope et phacochère mais aussi des animaux plus inattendus, porc-épic, pangolin, 
+                    serpent, crocodile.
+                </p>
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1695
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{BDEBCD86-9841-4475-8C49-8EF8A7DFC126}" p:before="r[@uid='{B418AE04-0B24-4CF4-9364-DADC628B6538}']" s:ds="{602528BC-5A3A-4437-BEB3-D2D092F432EB}" s:id="{692CDB19-7F8C-4A33-9818-CCD339AB3342}" s:par="Background&amp;Size=%7B3B0B0EDA-1AEC-4DA9-B1DF-64FDD21C5039%7D&amp;class=col-md-6%2520col-lg-6" s:ph="/main/row" /><r uid="{B418AE04-0B24-4CF4-9364-DADC628B6538}" p:before="r[@uid='{68129106-B785-4786-AD77-D4487844B0EC}']" s:ds="{0B7D7D26-C6DF-49B1-856C-1C9DE46C9FB0}" s:id="{692CDB19-7F8C-4A33-9818-CCD339AB3342}" s:par="Background&amp;Size=%7B3B0B0EDA-1AEC-4DA9-B1DF-64FDD21C5039%7D&amp;class=col-md-6%2520col-lg-6" s:ph="/main/row" /><r uid="{68129106-B785-4786-AD77-D4487844B0EC}" p:before="r[@uid='{B314E53C-BA15-4DEE-B266-7796BCCB089D}']" s:ds="{A667AA0C-18AF-45AE-BFD6-465B5FBBF717}" s:id="{692CDB19-7F8C-4A33-9818-CCD339AB3342}" s:par="Background&amp;Size=%7B3B0B0EDA-1AEC-4DA9-B1DF-64FDD21C5039%7D&amp;class=col-md-6%2520col-lg-6" s:ph="/main/row" /><r uid="{B314E53C-BA15-4DEE-B266-7796BCCB089D}" p:before="r[@uid='{F000EC9F-3959-43CF-98C8-84A1A18F6034}']" s:ds="{E9FF200C-1EFB-4242-ACFB-A2C431B7A1A7}" s:id="{692CDB19-7F8C-4A33-9818-CCD339AB3342}" s:par="Background&amp;Size=%7B3B0B0EDA-1AEC-4DA9-B1DF-64FDD21C5039%7D&amp;class=col-md-6%2520col-lg-6" s:ph="/main/row" /><r uid="{F000EC9F-3959-43CF-98C8-84A1A18F6034}" p:before="r[@uid='{8E459EF5-BE27-4850-9A07-6E6BB697F4CC}']" s:id="{D86866D9-DDA4-40DB-96A3-160BF8A730D4}" s:ph="main" /><r uid="{8E459EF5-BE27-4850-9A07-6E6BB697F4CC}" s:id="{9B9D6B11-7426-4F26-BBDA-AA261AEE51AC}" s:ph="main" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T163222Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+684bca7d-e030-44d5-8517-3c2a3a0451c9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160104T155944:635875199848955476Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

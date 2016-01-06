@@ -1,0 +1,109 @@
+----item----
+version: 1
+id: {5B643AC9-2720-47B5-9C2F-BC015FF5B92C}
+database: master
+path: /sitecore/content/MonGabon/Home/les-activites
+parent: {AC412A03-D855-4FE2-BBCF-0CE106BF832C}
+name: les-activites
+master: {00000000-0000-0000-0000-000000000000}
+template: {FFE33DA1-5923-4213-890C-3DD9A524BE34}
+templatekey: GabonParent
+
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 0
+
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
+field: {A791F095-2521-4B4D-BEF9-21DDA221F608}
+name: __Style
+key: __style
+content-length: 9
+
+activites
+----version----
+language: en
+version: 1
+revision: 9e81c4d0-0d5b-4ae4-b201-e7c43e1fa150
+
+----field----
+field: {7C55A7F2-C155-4E37-8079-0B830FC0A6FD}
+name: Title
+key: title
+content-length: 13
+
+Les activités
+----field----
+field: {2D580EE5-F886-408B-923E-1D7088D21407}
+name: Header Text
+key: header text
+content-length: 1715
+
+<p class="text-justify">
+                    Le Gabon offre à ceux qui s'y aventurent, une diversité d'activités de paysages et des ambiance. Les amoureux de la nature seront plus que
+                    servis. En effet, la faune et la flore du Gabon est quasi intacte et très protégée à travers 12 parcs nationaux répartis sur l'ensemble du territoire.
+                    De la côte  avec ses plages de sable fin, à l'intérieur des terres avec ses cours d'eau, la verdure abondante et les petits villages
+                    typiques, on se retrouve très facilement en harmonie avec les éléments.
+                </p>
+                <p class="text-justify">
+                    Les fêtards ne serotn pas en reste. En effet au Gabon, toutes les raisons sont propices à la célébration, autour d'un verre ou d'une bonne 
+                    assiette. Les nuits gabonaises sont très ambiancées. Les lieux de vie nocturne sont très nombreux et offrent des ambiances très différentes,
+                    de la plus chic à la plus roots.
+                </p>
+                <p class="text-justify">
+                    Enfin, les adeptes de farniente, de bronzette ou d'activités nautiques trouverons leur bonheur le long de nos côtes ou îles. Des plages aménagées de Port-Gentil
+                    aux plages sauvages plus au sud d'Omboué à Myumba, le choix est vaste.
+                    Les lieux les plus célèbres, la pointe Denis, la baie des tortues Luths, Akouango village, Sogara font le plein chaque week end et proposent
+                    des activités de baignade, restauration, hébergement de luxe, jetski, pêche sportive, observation des tortues géantes venant pondre leurs oeufs
+                </p>
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2153
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{57742155-D1E5-4A49-BE1E-A1F576467FAB}" p:before="r[@uid='{253CE2C9-2EDD-4AEC-B8BF-76AE0B7CF381}']" s:id="{D86866D9-DDA4-40DB-96A3-160BF8A730D4}" s:ph="main" /><r uid="{253CE2C9-2EDD-4AEC-B8BF-76AE0B7CF381}" p:before="r[@uid='{A01EAD60-6247-474B-AC23-3AD3D3E443D8}']" s:ds="{908ADE6D-1C82-4986-9CAA-62DB71F50B1D}" s:id="{605F844B-3569-4BE9-A265-F371A1A0E2ED}" s:par="Background&amp;Size=%7B35414A26-5159-4790-AB6E-4ACFBBE27FD9%7D" s:ph="/main/row" /><r uid="{A01EAD60-6247-474B-AC23-3AD3D3E443D8}" p:before="r[@uid='{DBDB0DC2-D75F-4004-8D96-9DC38DD45948}']" s:ds="{F05E3847-CA67-4FB3-B31B-98E3681D635F}" s:id="{605F844B-3569-4BE9-A265-F371A1A0E2ED}" s:par="Background&amp;Size=%7B35414A26-5159-4790-AB6E-4ACFBBE27FD9%7D" s:ph="/main/row" /><r uid="{DBDB0DC2-D75F-4004-8D96-9DC38DD45948}" p:before="r[@uid='{F09FDB5F-15D7-481E-BEF8-197FC5D57817}']" s:ds="{6322F213-5401-4CD5-BAAA-C106E19A8752}" s:id="{605F844B-3569-4BE9-A265-F371A1A0E2ED}" s:par="Background&amp;Size=%7B35414A26-5159-4790-AB6E-4ACFBBE27FD9%7D" s:ph="/main/row" /><r uid="{F09FDB5F-15D7-481E-BEF8-197FC5D57817}" p:before="r[@uid='{7CE83DEA-30E2-40E9-B9BE-DF9B9A095545}']" s:ds="{73FABF58-74D7-4BB2-B23A-6BB4AC6C3AE8}" s:id="{605F844B-3569-4BE9-A265-F371A1A0E2ED}" s:ph="/main/row" /><r uid="{7CE83DEA-30E2-40E9-B9BE-DF9B9A095545}" p:before="r[@uid='{B28FFD32-FC8A-47E4-8FF1-51D28A426AC3}']" s:ds="{35507485-1ED2-4095-8A5C-3D394DB454E9}" s:id="{605F844B-3569-4BE9-A265-F371A1A0E2ED}" s:ph="/main/row" /><r uid="{B28FFD32-FC8A-47E4-8FF1-51D28A426AC3}" p:before="r[@uid='{72E8E0FF-E46E-4F35-86A9-8E94A8EDEA53}']" s:ds="{8985C6CF-0E68-406B-90FF-248EAF2A767A}" s:id="{605F844B-3569-4BE9-A265-F371A1A0E2ED}" s:ph="/main/row" /><r uid="{72E8E0FF-E46E-4F35-86A9-8E94A8EDEA53}" p:before="r[@uid='{469D7853-DE0E-4311-A51C-C2F9DB585795}']" s:ds="{AF4DD4D1-E089-4530-8602-84C7E43D4B58}" s:id="{605F844B-3569-4BE9-A265-F371A1A0E2ED}" s:ph="/main/row" /><r uid="{7C075783-0B37-41D2-BF9E-405245095D70}" s:id="{9B9D6B11-7426-4F26-BBDA-AA261AEE51AC}" s:ph="main" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T223355Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9e81c4d0-0d5b-4ae4-b201-e7c43e1fa150
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160104T155947:635875199879655476Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

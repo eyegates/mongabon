@@ -1,0 +1,92 @@
+----item----
+version: 1
+id: {0B7D7D26-C6DF-49B1-856C-1C9DE46C9FB0}
+database: master
+path: /sitecore/content/MonGabon/PLats/sanglier-fume-a-l-odika
+parent: {F49D3482-8273-471A-B5DD-1463DA2837AC}
+name: sanglier-fume-a-l-odika
+master: {00000000-0000-0000-0000-000000000000}
+template: {27EA83DB-6E88-45D6-9376-EE2BE80B17ED}
+templatekey: Rite Template
+
+----version----
+language: en
+version: 1
+revision: 83a70980-e8f7-4d19-a009-392130866269
+
+----field----
+field: {B3570936-4ACE-4CA6-B555-99018EABF552}
+name: Titre
+key: titre
+content-length: 23
+
+Sanglier fumé à l'odika
+----field----
+field: {D40044AC-97D6-4F45-BE53-FCF02D44C92E}
+name: Image
+key: image
+content-length: 196
+
+<image mediapath="/Images/odika" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Images/odika" mediaid="{74A1D416-3A17-499F-91BF-7493B8F804A5}" ></image>
+----field----
+field: {37CAF9C1-FE24-4C49-81F0-A86302D2A797}
+name: Description
+key: description
+content-length: 621
+
+<p class="text-justify">
+                            Plat habituellement préparé lors de cérémonies de mariage ou de grandes fêtes. Appelé nkok en fang (une langue du 
+                            gabon) c’est une sauce à base de fruit d’acacias, un fruit similaire à la mangue sauvage et qui 
+                            a un gout de cacao. On fait cuire les graine qui sont par la suite pilées puis refroidis forme un 
+                            bloque qui est ensuite râpé lors de la préparation .  il à la couleur du chocolat mais est loin 
+                            d’en avoir le gout.
+                        </p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T205809Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+83a70980-e8f7-4d19-a009-392130866269
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151226T213801:635867626819777194Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,95 @@
+----item----
+version: 1
+id: {B61B5B91-84E3-4EFC-BE20-61DD93E849EF}
+database: master
+path: /sitecore/content/MonGabon/Rites/Okukwe
+parent: {EBC7C312-9269-476A-AA6A-009FB0B2CAA7}
+name: Okukwe
+master: {00000000-0000-0000-0000-000000000000}
+template: {27EA83DB-6E88-45D6-9376-EE2BE80B17ED}
+templatekey: Rite Template
+
+----version----
+language: en
+version: 1
+revision: de41dc89-480c-4ceb-81c7-d04508a8137e
+
+----field----
+field: {B3570936-4ACE-4CA6-B555-99018EABF552}
+name: Titre
+key: titre
+content-length: 6
+
+Okukwé
+----field----
+field: {D40044AC-97D6-4F45-BE53-FCF02D44C92E}
+name: Image
+key: image
+content-length: 169
+
+<image mediapath="" alt="okukwe" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{A4D15CEC-71A8-4D56-B3F4-F3116C95933B}" ></image>
+----field----
+field: {37CAF9C1-FE24-4C49-81F0-A86302D2A797}
+name: Description
+key: description
+content-length: 959
+
+<p class="text-justify">
+                            L'okukwé est le pendant masculin du ndjembe vu précédement. Cette société reste très secrète envers les non initiés.
+                            La société Okukwé gère la vie sprituelle, judiciaire et administrative, le masque qui la symbolise était porté durant les 
+                            cérémonies importantes telles que celles célébrant les funérailles d’un chef ou la naissance de jumeaux. Grâce aux pouvoirs détenus 
+                            par ce masque, son propriétaire pouvait réguler la vie sociale des villageois.                            
+                        </p>
+                        <!-- 4:3 aspect ratio -->
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/51xTIZMvafY" frameborder="0" allowfullscreen></iframe>
+                        </div>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T174027Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+de41dc89-480c-4ceb-81c7-d04508a8137e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151226T182853:635867513337759146Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

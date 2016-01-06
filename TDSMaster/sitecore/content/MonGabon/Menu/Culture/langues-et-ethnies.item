@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {36F9EBDD-9862-4664-BE15-AA96DEA67089}
+database: master
+path: /sitecore/content/MonGabon/Menu/Culture/langues-et-ethnies
+parent: {16E0B56E-85C1-4316-A8E7-E04B947A0CA6}
+name: langues-et-ethnies
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C72F15A-01BE-4E39-8A64-D33B6375FF79}
+templatekey: MenuItem
+
+----version----
+language: en
+version: 1
+revision: 45ab66b0-cc83-4690-bc82-542f8f150656
+
+----field----
+field: {2A6A2B87-9E42-40A4-857E-3F2201491D63}
+name: NavigationTitle
+key: navigationtitle
+content-length: 17
+
+Langues & ethnies
+----field----
+field: {A9A33204-121F-49DC-827F-B92C642BC9C3}
+name: TargetItem
+key: targetitem
+content-length: 38
+
+{793DB727-4385-4E0D-8FCE-9C89F783095A}
+----field----
+field: {6141FA82-D18A-4C1D-8D84-3D3D08A318EC}
+name: Order
+key: order
+content-length: 1
+
+3
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151229T155312Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+45ab66b0-cc83-4690-bc82-542f8f150656
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151230T131445:635870780857260133Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

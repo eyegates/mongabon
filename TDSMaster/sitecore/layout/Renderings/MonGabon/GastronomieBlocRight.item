@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {24C902CD-E270-4D38-829C-BF6E2749E521}
+database: master
+path: /sitecore/layout/Renderings/MonGabon/GastronomieBlocRight
+parent: {4990B591-90F6-4DB2-AEFF-C5767ED6C7C7}
+name: GastronomieBlocRight
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 15
+
+ContentBlocRite
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 20
+
+GastronomieBlocRight
+----field----
+field: {13F89250-AD6B-4548-882E-118A12C18094}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{C58A3BF8-C627-4EAE-9221-71571F5918A1}
+----field----
+field: {94069F66-609C-48B0-8281-521C30FB269D}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+-
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 32
+
+/sitecore/content/MonGabon/PLats
+----field----
+field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
+name: Datasource Template
+key: datasource template
+content-length: 42
+
+/sitecore/templates/Mongabon/Rite Template
+----version----
+language: en
+version: 1
+revision: 118e8026-2e02-4a2d-9630-eefbb49ecf0a
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T174739Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+118e8026-2e02-4a2d-9630-eefbb49ecf0a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151229T095410:635869796504606584Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

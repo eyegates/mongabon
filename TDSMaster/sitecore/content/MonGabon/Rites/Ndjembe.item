@@ -1,0 +1,111 @@
+----item----
+version: 1
+id: {0DE77795-2E4D-4DD7-974C-7B1049CCB16D}
+database: master
+path: /sitecore/content/MonGabon/Rites/Ndjembe
+parent: {EBC7C312-9269-476A-AA6A-009FB0B2CAA7}
+name: Ndjembe
+master: {00000000-0000-0000-0000-000000000000}
+template: {27EA83DB-6E88-45D6-9376-EE2BE80B17ED}
+templatekey: Rite Template
+
+----version----
+language: en
+version: 1
+revision: ac19a01a-e399-4240-82ce-719dbdcfc7cb
+
+----field----
+field: {B3570936-4ACE-4CA6-B555-99018EABF552}
+name: Titre
+key: titre
+content-length: 10
+
+Le Ndjembe
+----field----
+field: {D40044AC-97D6-4F45-BE53-FCF02D44C92E}
+name: Image
+key: image
+content-length: 170
+
+<image mediapath="" alt="ndjembe" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{48F9F9A2-7E52-4DA9-A491-F606BA07BAA3}" ></image>
+----field----
+field: {37CAF9C1-FE24-4C49-81F0-A86302D2A797}
+name: Description
+key: description
+content-length: 3162
+
+<p class="text-justify">
+                            le Ndjembe est le rite de passage, qui assure la transition entre le statut de jeune fille et celui de femme dite accomplie.
+                            Par ailleurs, il est souvent associé à une société magique et quelques fois même démoniaque, donnant aux initiées le pouvoir de 
+                            communiquer avec les génies et avec l’au-delà. 
+
+                            Selon le mythe relatant l’origine de la société initiatique féminine des Galoa, le Ndjembe, celui-ci a été découvert par un homme qui,
+                            alors qu’il posait des pièges dans la forêt, a disparu brusquement. Il avait été appelé par des ancêtres qui lui remirent un secret, 
+                            celui du Ndjembe. Apres cinq jours, une femme de la même ethnie le retrouva. Cette dernière, elle, avait découvert un autre secret; 
+                            un masque représentant la face d’un ancêtre, appelé « okukwè ». Ils rentrèrent donc ensemble et décidèrent d’échanger leur secret. 
+                            C’est ainsi que les femmes récupérèrent le Ndjembe laissant aux hommes le second secret, l’okukwè, et qui deviendra le nom de la 
+                            société initiatique masculine.
+                            Ce rite, collectif, est un passage obligé pour les jeunes filles leur permettant d’être considérées dans la société galoise comme de 
+                            réelles femmes, matures et accomplies. Admis par la communauté comme « la mère de la vérité » et considéré ainsi comme primordial, 
+                            il se déroule souvent sur une période de plusieurs années, pour assurer aux candidates à l’initiation une formation qui leur est 
+                            indispensable.
+
+                            Le ndjembe fait donc acquérir à la femme une nouvelle dimension qui fait d’elle un élément prépondérant dans la structure de la 
+                            société. Par ailleurs, elle se sent dès lors généralement plus épanouie, puisque les femmes non initiées sont habituellement exclues 
+                            de toutes les activités des femmes initiées. Elle change donc radicalement d’identité et acquiert les rôles qui concrétisent son 
+                            nouveau statut. Elle peut être dès lors pleinement ce que son identité sexuelle doit irrémédiablement l’amener à être : une femme et 
+                            non plus une jeune fille, s’étant détachée de la naïveté et de l’immaturité qui la caractérisaient.
+                            Il faut noter que la jeune fille ex-candidate au Ndjembe devient non seulement une femme, mais une femme forte. Il ne s’agit pas ici 
+                            d’une force physique, mais d’une force « spirituelle » qu’elle acquiert par le biais de l’initiation et qui fait d’elle une femme 
+                            au sens traditionnel du terme. Ainsi, à l’issue du Ndjembe, elle peut prendre part aux décisions, et adulte, elle aura le devoir de 
+                            veiller à son tour à la formation des jeunes générations.
+                        </p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151226T173933Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ac19a01a-e399-4240-82ce-719dbdcfc7cb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151226T182853:635867513337529150Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

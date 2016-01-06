@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {E20E45F3-A770-492E-85AA-6B108A90C49C}
+database: master
+path: /sitecore/content/MonGabon/Home/testpage
+parent: {AC412A03-D855-4FE2-BBCF-0CE106BF832C}
+name: testpage
+master: {00000000-0000-0000-0000-000000000000}
+template: {FFE33DA1-5923-4213-890C-3DD9A524BE34}
+templatekey: GabonParent
+
+----version----
+language: en
+version: 1
+revision: 288ee586-5b94-4d8e-be05-4528e01cb9d1
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160106T141720Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+288ee586-5b94-4d8e-be05-4528e01cb9d1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160106T141720:635876866400657456Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {CF56E6CE-6B04-4FF4-A726-AF9C149E5E68}
+database: master
+path: /sitecore/content/MonGabon/Menu/home
+parent: {7C34827C-7113-4CFF-B64E-E3B7310E1C71}
+name: home
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C72F15A-01BE-4E39-8A64-D33B6375FF79}
+templatekey: MenuItem
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 53c4f556-0989-4679-a412-94a8b70befab
+
+----field----
+field: {2A6A2B87-9E42-40A4-857E-3F2201491D63}
+name: NavigationTitle
+key: navigationtitle
+content-length: 7
+
+Accueil
+----field----
+field: {A9A33204-121F-49DC-827F-B92C642BC9C3}
+name: TargetItem
+key: targetitem
+content-length: 38
+
+{AC412A03-D855-4FE2-BBCF-0CE106BF832C}
+----field----
+field: {6141FA82-D18A-4C1D-8D84-3D3D08A318EC}
+name: Order
+key: order
+content-length: 1
+
+1
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151229T145706Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+53c4f556-0989-4679-a412-94a8b70befab
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151229T155024:635870010244240383Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
