@@ -1,0 +1,55 @@
+﻿@using Sitecore.Mvc
+@model System.Collections.Generic.ICollection<Mongabon.Models.MenuItem>
+@{
+    
+}
+
+@if (Model.Count > 0)
+{
+    <nav class="navbar" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse pull-right navbar-gray" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    @foreach (var item in Model)
+                    {
+                        if (item.HasChild)
+                        {
+                            <li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">@item.Title <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    @foreach (var groupitem in item.SubmenuItems)
+                                    {
+                                        <li>
+                                            <a href="@groupitem.ItemUrl" class="@(groupitem.IsCurrent ? "active" : "")"> @groupitem.Title</a>
+                                        </li>
+                                    }
+                                </ul>
+                            </li>
+                        }
+                    else
+                        {
+                            <li>
+                                <a href="@item.ItemUrl" class="@(item.IsCurrent ? "active" : "")"> @item.Title</a>
+                            </li>
+                        }
+                        
+                    }
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+    <!-- /.container -->
+</nav>
+}
+
+

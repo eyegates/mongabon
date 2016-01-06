@@ -1,0 +1,20 @@
+﻿@using Sitecore.Mvc
+@model Mongabon.Models.HeaderBlocModel
+@{
+    Layout = null;
+}
+
+<div class="@Model.CssClass padding-30">
+    <h3 class="media-heading text-center">@Html.Sitecore().Field("Titre")</h3>
+
+    <div class="media">
+        <div class="media-body">
+            @Html.Sitecore().Field("Description")
+        </div>
+        <div class="media-right media-middle">
+            <a>
+                @Html.Sitecore().Field("Image", new { w = 250 })
+            </a>
+        </div>
+    </div>
+</div>

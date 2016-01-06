@@ -1,0 +1,45 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html class="full @Model.Rendering.Item.Appearance.Style">
+<head>
+    <meta charset="utf-8" />
+    <title>Mon beau Gabon - Accueil</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--bootstrap css-->
+    <link rel="stylesheet" href="/content/bootstrap.css" />
+
+    <!--custom css-->
+    <link href="/content/style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+    <!-- Navigation -->
+    @Html.Sitecore().Placeholder("nav")
+
+    <!-- Page Content -->
+    <div class="container">
+        @Html.Sitecore().Placeholder("main")
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+    @Html.Sitecore().Placeholder("footer")
+
+    <!-- jQuery -->
+    <script src="/scripts/jquery-2.1.4.js"></script>
+    <script type="text/javascript">
+        $.noConflict();
+    </script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script type="text/javascript" src="/scripts/bootstrap.js"></script>
+
+</body>
+</html>
