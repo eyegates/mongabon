@@ -30,9 +30,11 @@
     <RecursiveDeployAction>Ignore</RecursiveDeployAction>
     <SitecoreWebUrl>http://mongabon/</SitecoreWebUrl>
     <InstallSitecoreConnector>True</InstallSitecoreConnector>
-    <DisableFileDeployment>False</DisableFileDeployment>
+    <DisableFileDeployment>True</DisableFileDeployment>
     <SitecoreDeployFolder>C:\inetpub\wwwroot\mongabon\Website</SitecoreDeployFolder>
     <SitecoreAccessGuid>a313b81a-fb4c-4124-9fec-7521a85a1c21</SitecoreAccessGuid>
+    <EnableValidations>False</EnableValidations>
+    <ValidationSettingsFilePath>.\TDSMaster_Debug.xml</ValidationSettingsFilePath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <DebugSymbols>false</DebugSymbols>
@@ -650,6 +652,9 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
+  </ItemGroup>
+  <ItemGroup>
+    <ExcludedAssemblies Include="Sitecore.%2a.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" />
 </Project>

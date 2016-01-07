@@ -1,5 +1,7 @@
-﻿using Sitecore.Data;
+﻿using System.Web;
+using Sitecore.Data;
 using Sitecore.Data.Items;
+using Sitecore.Mvc.Presentation;
 
 namespace Mongabon
 {
@@ -14,6 +16,15 @@ namespace Mongabon
                 return item.Database.GetItem(id);
             }
             return null;
+        }
+    }
+
+    public static class SitecoreHelper
+    {
+        public static HtmlString DynamicPLaceholer(this Sitecore.Mvc.Helpers.SitecoreHelper helper, string dynamicKey)
+        {
+            var currentRenderingId = RenderingContext.Current.Rendering.UniqueId;
+            return helper.Placeholder(string.Format("{0}_{1}", dynamicKey, currentRenderingId));
         }
     }
 }
